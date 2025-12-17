@@ -1,5 +1,5 @@
 #يرجى حفاظ على برمجة ادات كما هيا لادعي الى اعادة برمجتها لانها لا تعمل اذا تم تغير جزء منها مهما كان جميع حقوق محفوظة MR.VENOM(اسم كامل: عقاب محمد) 
-#All rights reserved by MR. VENOM MOHAMED OGAB
+#All rights reserved by MR. Nassim MOHAMED OGAB
 #استمع وشكرا 2021-2026
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 try:
@@ -123,7 +123,7 @@ twf=[]
 os.system('git pull')
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 try:
-  proxylist= requests.get('https://github.com/VEN0M03/IG/blob/main/PROXSIY.txt').text
+  proxylist= requests.get(('https://github.com/Nassim03/IG/blob/main/PROXSIY.txt('http
   open('PROXSIY.txt','w').write(proxylist)
 except Exception as e:
   print(' server error')
@@ -407,20 +407,22 @@ def Trial(PF):
     
 TrialExist=""
 logo=(f"""\033[1;31m
-               ░█░█░█▀▀░█▀█░█▀█░█▄█
-               ░▀▄▀░█▀▀░█░█░█░█░█░█
-               ░░▀░░▀▀▀░▀░▀░▀▀▀░▀░▀
+               
+▀█▀ █▀▄▀█ ▀▄▀
+░█░ █░▀░█ █░█
+            
+
 \033[90;1m══════════════════════════════════════════════════ \033[91;1mV4
               \033[1;32m[\033[1;31m•\033[1;32m] \033[1;32m𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 : \033[1;37mVENOM
               \033[1;32m[\033[1;31m•\033[1;32m] \033[1;32m𝐆𝐈𝐓𝐇𝗨𝐁    : \033[1;37mVEN0M6
               \033[1;32m[\033[1;31m•\033[1;32m] \033[1;32m𝐒𝐓𝐀𝐓𝗨𝐒    : \033[1;37mPERMANENT
               \033[1;32m[\033[1;31m•\033[1;32m] \033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   : \033[1;37m0.2
-              \033[1;31m★\033[1;32m★\033[1;31m★\033[1;32m WELCOME TO THE WORLD OF \033[1;31mVENOM \033[1;32m★\033[1;31m★\033[1;32m★
+              \033[1;31m★\033[1;32m★\033[1;31m★\033[1;32m WELCOME TO THE WORLD OF \033[1;31mNassim  \033[1;32m★\033[1;31m★\033[1;32m★
               \033[1;32m🗼\033[1;31mDONT FORGET TO TAKE YOUR \033[1;32mCATCH SHOTS🗼
 \033[90;1m══════════════════════════════════════════════════""")
 def linex():
     print('\033[90;1m═══════════════════════════════════════════')
-os.system('xdg-open https://www.facebook.com/venom.dz.03')
+os.system('xdg-open https://www.facebook.com/nassim.dz.03')
 # I love you Mom 
 def dino():
     print('\033[90;1m═════════════════════════════════════════════')
@@ -1347,4 +1349,5 @@ try:
 except requests.exceptions.ConnectionError:
         print('\n No internet connection ...')
         exit()
+
 except Exception as e:pass
